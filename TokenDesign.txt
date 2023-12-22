@@ -1,0 +1,7 @@
+Token Design - Android Rocks Token
+
+- Initial Supply (send to owner) - 60,000,000
+- Capped / Max Supply - 100,000,000
+- Minting Strategy 
+- Block Reward 
+- Burnable 
